@@ -27,10 +27,6 @@ Also, I added Data Search (S) CRUDS.
 - The data will not be added unless it is correct (Title + Price + Category).
 
 
-## Video
-
-[![Alt text](https://img.youtube.com/vi/9lgYFYCgGqM/0.jpg)](https://www.youtube.com/watch?v=9lgYFYCgGqM)
-
 
 
 
