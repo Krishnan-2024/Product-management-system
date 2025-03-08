@@ -9,9 +9,7 @@ Also, I added Data Search (S) CRUDS.
 
 
 
-## Author
 
-- [@youssefadbz](https://github.com/youssefadbz)
 
 
 ## Screenshot
