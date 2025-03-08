@@ -33,7 +33,5 @@ Also, I added Data Search (S) CRUDS.
 
 
 
-## Feedback
 
-If you have any feedback, please reach out to me at https://discord.com/users/Geek#6054
 
